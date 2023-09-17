@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="c__project1.About" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.AddCustomer" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACACABAAEACgAA4CAoAAAAAAgAAAAQBAAAQ=</HashCode>
+      <FileName>AddCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.BillList" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAQhACQUAAQAAACAIg0CAASgAIYAAACAAAAAoAA=</HashCode>
+      <FileName>BillList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.CatergeryAdd" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAIAAAAAAQAAAAAgQ=</HashCode>
+      <FileName>CatergeryAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Catergeryview" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAggAACAUAAQAgACAAAACCAQgACAAAAAAAAAQAAI=</HashCode>
+      <FileName>Catergeryview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Checkout" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAQAJCAAALAABACAACAIAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Checkout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.formhome" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>formhome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.hardwarestoreDataSet" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABACARAAACAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Loading" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAABAAAACAQAgCAAAAIAAAAAAAAABAAIA=</HashCode>
+      <FileName>Loading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Login" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAACAASBAAAACAAAQCAAAAAAEAUEAAAYDYAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Main" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAYhEggiAEABmAAAyCAEASAAAAACAAQAABAYFAAAE=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Mainclass" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQQAQAAAAAAAAAAACQAAAEAQgAAAAAAAQA=</HashCode>
+      <FileName>Mainclass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Orderadd" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAIAAAAAAQAAAAAgQ=</HashCode>
+      <FileName>Orderadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.OrderSelect" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACABAAAACAAAQCAIAAAAAAAAAAAQBAEAA=</HashCode>
+      <FileName>OrderSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Orderupdate" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQBAAAACAEAAKAAAAAAAAAAAEBQDAAAA=</HashCode>
+      <FileName>Orderupdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Orderview" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgggACBEAIQAAQCAAAACCAYAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Orderview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Catergery" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAABAAAACAAACCAAGwAAACAAAAAQAIAAA=</HashCode>
+      <FileName>other\Catergery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Catergoryadd" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAASAAgBQAAACAEAACAAQAAAEAAAIABQBAAAA=</HashCode>
+      <FileName>other\Catergoryadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Customer" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggAAACAAABQQAACAAACCAAW4BwACAAAAAQAIAAA=</HashCode>
+      <FileName>other\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Customeradd" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAIBIAASAAABQAAACAMAQCgCQAAAEAAAIUBYBAAAA=</HashCode>
+      <FileName>other\Customeradd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Inventory" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIBAQAQAACAEABQAAACkAAAKAAAAAACAAAIAAAAAQAg=</HashCode>
+      <FileName>other\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Supplier" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAgAAACAAABQAAACAEACCAAU4BwACAAAAAQAAAAA=</HashCode>
+      <FileName>other\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Supplieradd" Collapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIBIAACAAABQAAACAMAQLgCQAAAEAAFIEBYBAAAA=</HashCode>
+      <FileName>other\Supplieradd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.PendingView" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAAAAAACAAAACAIAAAAAAAAAAAAEAAIA=</HashCode>
+      <FileName>PendingView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Pos" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAgDH0QEWQEABxIAgGIwBgCmSCoAHoABcIAGcJAE9I=</HashCode>
+      <FileName>Pos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Productadd" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEARAKIEABAAAACAAAACAAAAEACIABAQAAQUAgQ=</HashCode>
+      <FileName>Productadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Productupdate" Collapsed="true">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGARACAEQBQAAACAEAAKAAQAMACAABAEAQTEAgQ=</HashCode>
+      <FileName>Productupdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Productview" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAgACACAEAAYAAACBAAACCAQgAAAAAAAIQAEQABA=</HashCode>
+      <FileName>Productview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Program" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Sampleadd" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAQBAAAACAAAACAAAAAAAAAAAQAQDAAAA=</HashCode>
+      <FileName>Sampleadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Sampleview" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAABAAAACAAACCCIAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Sampleview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Setting" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAACAAABgAAACAAAQCAAAAAAAAAAAAAYBAAAA=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Staffadd" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAACAAABAAAACAIAACAAAAIAAAAAAQAQAAAgQ=</HashCode>
+      <FileName>Staffadd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.StaffSelect" Collapsed="true">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABACAACAAAQCAIAAAAAAAAAIAQBAEAA=</HashCode>
+      <FileName>StaffSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Staffupdate" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAACAAQBQAAACAMAAKAAQAAAAAAAAEBQDAAAA=</HashCode>
+      <FileName>Staffupdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Staffview" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgAQACAEAAQAAACIAAACCAQhAAAAAgAAAAAQECA=</HashCode>
+      <FileName>Staffview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.ucProduct" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQUgQAAAACAACQAAAACAAAACACAAAAAAAAAAAQAAAgA=</HashCode>
+      <FileName>ucProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.UserAdd" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAGABCAAACAAAACAAAAAAAAAAAQAAAAAgQ=</HashCode>
+      <FileName>UserAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.UserControl1" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAQAAAAAACAAAAGAAAAAAAAAAAAAAgCAAA=</HashCode>
+      <FileName>UserControl1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.UserUp" Collapsed="true">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAGQBAAAACAEAAKAAAAAAAAAAAEAQDAAAQ=</HashCode>
+      <FileName>UserUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.other.Categoryupdate" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQBAAAACAEAAKAAAAAAAAAAAEBQDAAAA=</HashCode>
+      <FileName>Categoryupdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.other.Usersview" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAgAAACAAEYwAQACAAAkCCAYgAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>Usersview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.hardwarestoreDataSetTableAdapters.suppliersTableAdapter" Collapsed="true">
+    <Position X="22" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.hardwarestoreDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="23.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABQEBAAAAMAAgAAACgAAAAIQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Properties.Resources" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAEQAAAAAEAAAAAAQAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="c__project1.Properties.Settings" Collapsed="true">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
