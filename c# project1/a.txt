@@ -1,1 +1,1 @@
-text
+bin/debug change to bin
