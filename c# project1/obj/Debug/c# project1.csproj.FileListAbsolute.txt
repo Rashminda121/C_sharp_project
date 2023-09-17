@@ -1,0 +1,168 @@
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\c# project1.exe.config
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\c# project1.exe
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\c# project1.pdb
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\RestSharp.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Buffers.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.CodeDom.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Data.Odbc.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Data.OleDb.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Drawing.Common.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.IO.Packaging.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.IO.Ports.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Memory.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.csproj.AssemblyReference.cache
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.CatergeryAdd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.other.Categoryupdate.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Orderadd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Orderupdate.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Orderview.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Catergery.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Catergoryadd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Catergeryview.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Customer.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Customeradd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.formhome.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Login.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Main.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Inventory.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Pos.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Productadd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Productupdate.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Productview.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Sampleadd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Sampleview.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Supplieradd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Supplier.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Properties.Resources.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Staffadd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Staffupdate.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Staffview.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.ucProduct.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.UserControl1.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.csproj.GenerateResource.cache
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.csproj.CoreCompileInputs.cache
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.csproj.Fody.CopyLocal.cache
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.csproj.CopyComplete
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.exe
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c# project1.pdb
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.BillList.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Checkout.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.AddCustomer.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Setting.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.other.Usersview.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.UserAdd.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.UserUp.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.PendingView.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.Loading.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.About.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.OrderSelect.resources
+C:\Users\Rashminda\source\repos\c# project1\c# project1\obj\Debug\c__project1.StaffSelect.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\c# project1.exe.config
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\c# project1.exe
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\c# project1.pdb
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\RestSharp.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Buffers.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.CodeDom.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Data.Odbc.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Data.OleDb.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Drawing.Common.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.IO.Packaging.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.IO.Ports.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Memory.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.csproj.AssemblyReference.cache
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.About.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.AddCustomer.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.BillList.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.CatergeryAdd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.other.Categoryupdate.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Checkout.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.PendingView.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Orderadd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Orderupdate.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Orderview.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Catergery.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Catergoryadd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Catergeryview.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Customer.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Customeradd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.formhome.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Login.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Main.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.other.Usersview.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Setting.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Loading.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Inventory.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Pos.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Productadd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Productupdate.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Productview.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Sampleadd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Sampleview.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Supplieradd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Supplier.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Properties.Resources.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Staffadd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Staffupdate.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.Staffview.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.OrderSelect.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.ucProduct.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.UserAdd.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.UserControl1.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.UserUp.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c__project1.StaffSelect.resources
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.csproj.GenerateResource.cache
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.csproj.CoreCompileInputs.cache
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.csproj.Fody.CopyLocal.cache
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.csproj.CopyComplete
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.exe
+C:\Users\Rashminda\Documents\C# project\New folder 7\c# project1\c# project1\obj\Debug\c# project1.pdb
